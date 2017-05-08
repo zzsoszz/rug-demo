@@ -1,0 +1,4 @@
+group: "com.qingtian"
+artifact: "rug-demo"
+version: "0.1.0"
+requires: "[1.0.0-m.1,2.0.0)"
